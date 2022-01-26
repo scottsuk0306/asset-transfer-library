@@ -142,7 +142,7 @@ async function main() {
 			result = await contract.evaluateTransaction('AssetExists', 'asset1');
 			console.log(`*** Result: ${prettyJSONString(result.toString())}`);
 
-			console.log('\n--> Submit Transaction: UpdateAsset asset1, change the appraisedValue to 350');
+			console.log('\n--> Submit Transaction: UpdateAsset asset1, change title, borrower, borrowed books, and avaliable books');
 			await contract.submitTransaction('UpdateAsset', 'asset1', 'Life is Wonderful', 'Thomas', '1', '0');
 			console.log('*** Result: committed');
 
@@ -160,7 +160,7 @@ async function main() {
 				console.log(`*** Successfully caught the error: \n    ${error}`);
 			}
 
-			console.log('\n--> Submit Transaction: TransferAsset asset1, transfer to new owner of Tom');
+			console.log('\n--> Submit Transaction: TransferAsset asset1, transfer to new borrower of Tom');
 			await contract.submitTransaction('TransferAsset', 'asset1', 'Tom');
 			console.log('*** Result: committed');
 
