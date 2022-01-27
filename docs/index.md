@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# asset-transfer-library
+# Asset Transfer Library
 
-asset-transfer-library is a collection of chaincode and application that works on `fabric-samples/test-network`. 
+`asset-transfer-library` is a collection of chaincode and application that works on `fabric-samples/test-network`. 
 
 [View it on GitHub](https://github.com/scottsuk0306/asset-transfer-library)
 
