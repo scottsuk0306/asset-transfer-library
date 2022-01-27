@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to asset-transfer-library 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://scottsuk0306.github.io/asset-library-transfer" target="_blank">
+  <a href="https://scottsuk0306.github.io/asset-transfer-library" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="#" target="_blank">
@@ -11,9 +11,9 @@
 
 > Simple guideline that tells you how to use hyperledger fabric
 
-### 🏠 [Homepage](https://scottsuk0306.github.io/asset-library-transfer)
+### 🏠 [Homepage](https://scottsuk0306.github.io/asset-transfer-library)
 
-### ✨ [Demo](https://scottsuk0306.github.io/asset-library-transfer)
+### ✨ [Demo](https://scottsuk0306.github.io/asset-transfer-library)
 
 ## Install
 
