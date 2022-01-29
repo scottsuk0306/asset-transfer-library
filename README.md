@@ -9,28 +9,15 @@
   </a>
 </p>
 
-> Simple guideline that tells you how to use hyperledger fabric
+> HLF-based book management system for library.
 
 ### 🏠 [Homepage](https://scottsuk0306.github.io/asset-transfer-library)
-
-### ✨ [Demo](https://scottsuk0306.github.io/asset-transfer-library)
 
 ## Install
 
 ```sh
-hello
-```
-
-## Usage
-
-```sh
-hello
-```
-
-## Run tests
-
-```sh
-hello
+$ cd ~/fabric-samples
+$ git clone https://github.com/scottsuk0306/asset-transfer-library
 ```
 
 ## Author
