@@ -21,27 +21,15 @@ asset-transfer-library is built on
 
 ### Installation
 
-1. Install the repository
+1. Install the repository.
 ```bash
 $ cd ~/fabric-samples
 $ git clone https://github.com/scottsuk0306/asset-transfer-library
 ```
-2. Try out some shell scripts in `~/fabric-samples/asset-transfer-library`
+2. Try out some shell scripts in `~/fabric-samples/asset-transfer-library`.
 ```bash
 $ ./library-test.sh
+$ ./chaincode-test.sh
+$ ./application-test.sh
 ```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+3. _Optional:_ Modify the world state in design and functions in `chaincode-go/chaincode/smartcontract.go` based on your use.

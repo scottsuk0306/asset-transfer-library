@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Asset Transfer Library Documentation
+title: Asset Transfer Library
 email: scottsuk0306@gmail.com
 remote_theme: pmarsceill/just-the-docs
 description: >- # this means to ignore newlines until "baseurl:"
