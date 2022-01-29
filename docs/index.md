@@ -4,10 +4,12 @@ title: Home
 ---
 
 # Asset Transfer Library
+{: .fs-9 }
 
 `asset-transfer-library` is a collection of chaincode and application that works on `fabric-samples/test-network`. 
+{: .fs-6 .fw-300 }
 
-[View it on GitHub](https://github.com/scottsuk0306/asset-transfer-library)
+[View it on GitHub](https://github.com/scottsuk0306/asset-transfer-library){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
